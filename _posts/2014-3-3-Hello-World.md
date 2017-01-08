@@ -1,6 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: Santander Product Recommendation - 38th Solution
 published: true
 ---
-this is some test
+## Problem Description
+## Team Members
+## Methodology and Pipeline
+## Exploratory Data Analysis 
+## Modelling
+## Cross Validation
+## Conclusion 
+## Reference 
+
+
